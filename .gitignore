@@ -1,0 +1,15 @@
+.idea
+.tscache
+*.iml
+.baseDir.ts
+target
+node_modules
+.DS_Store
+*.swp
+.env
+*.tmp.txt
+comminters.txt
+allure-results
+test-reports
+coverage
+yarn-*.log
