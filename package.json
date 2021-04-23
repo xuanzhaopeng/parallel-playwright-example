@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:ci": "jest --runInBand --ci",
+    "test": "jest --runInBand --ci",
     "test:open": "PWDEBUG=1 jest",
     "test:debug": "DEBUG=pw:api jest",
     "test:percy": "percy exec -- jest",

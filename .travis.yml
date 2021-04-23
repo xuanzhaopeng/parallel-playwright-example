@@ -5,3 +5,5 @@ addons:
     packages:
     # This is required to run chromium
     - libgbm1
+cache:
+  yarn: true
